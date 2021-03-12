@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["295791590096502784"],
+        "ACTIVITY_TEXT": "SNOWY",
+        "GUILD_ID": "SERVER ID",
+        "VOICE_CHANNEL": "VOICE CHANNEL ID",
+        "MIN_STAFF_ROLE": "REGISTER STAFF"
+    },
+    "FILES": {
+        "WELCOME": "default_files/giris2.mp3",
+        "STAFF": "default_files/yetkili.mp3"
+    },
+    "TOKEN": "TOKEN"
+}
